@@ -1,0 +1,8 @@
+Add simple UI to reset queue for new symbols
+activate and deactivate symbols
+
+Better way to retrieve data from db(API?)
+
+Add stock data to DB
+- Create price table with many-to-one relationship with symbol_set_active
+- price table: Date, Opening, Closing
